@@ -1,7 +1,8 @@
 # portfolio
-< img src="pp.jpeg">
-## SRUJANA 
-# Deepak Kuruva
+<img src="pp.jpeg" width=200 heigh=200>
+
+
+# SRUJANA 
 # Java Full Stack Developer
 
 *Contact Information*:
@@ -13,9 +14,9 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 
 ## Technical Skills
 - Languages	: Java 8/7/6, C, C++, SQL, PL/SQL
-- Java/J2EE Technologies	:	Core Java, JSP, JMS, Java Beans, EJB, Tiles, Design Patterns, RabbitMQ, ActiveMQFrameworks	Spring, Hibernate, Spring Boot.
+-Java/J2EE Technologies:	Core Java, JSP, JMS, Java Beans, EJB, Tiles, Design Patterns, RabbitMQ, ActiveMQFrameworks, Spring, Hibernate, and Spring Boot.
 - Web Technologies:	HTML5, XML, DOM, JSON, CSS3, JavaScript, jQuery, AJAX, Angular.JS, React.JS, REDUX, React Native, Node.JS
-- Web Services/Cloud :	SOAP, REST, AWS,AZURE
+- Web Services/Cloud:	SOAP, REST, AWS, AZURE
 - Design & GUI Tools:	Eclipse, IBM RAD, Maven, Jenkins, Jira
 - App servers:	IBM Web Sphere, Apache Tomcat, BEA Web Logic, JBoss
 - Version Controls:	GitHub, SVN, CVS
