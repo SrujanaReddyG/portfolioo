@@ -2,15 +2,16 @@
 <img src="pp.jpeg" width=200 heigh=200>
 
 
-# SRUJANA 
+# SAI SRUJANA REDDY GUTHA
 # Java Full Stack Developer
 
 *Contact Information*:
-- *Email*: [deepak.kuruva9@gmail.com](mailto:deepak.kuruva9@gmail.com)
-- *Phone*: +1 ‪(205) 687-0531
+- *Email*: saisrujanareddyg@gmail.com
+- *Phone*: 945-234-1507
+
 
 # About Me
-I am an experienced Full Stack Developer with a proven track record of delivering high-quality, scalable web applications. I specialize in both front-end and back-end development using technologies such as Java (Spring Boot, Hibernate), JavaScript (ReactJS, Angular), and cloud services (AWS, Azure). I am adept at designing RESTful APIs, implementing CI/CD pipelines, and building microservices architectures. I have a strong background in optimizing application performance, ensuring security, and collaborating with cross-functional teams to achieve project success. I am committed to leveraging my technical expertise to create user-friendly and efficient software solutions.
+Full Stack Developer with expertise in React.js, Redux, Spring Boot, Node.js, and modern cloud technologies like AWS (EC2, S3, RDS). I specialize in building scalable, user-friendly applications and optimizing performance using tools like Docker, Jenkins, and Splunk. I developed a Membership Management Portal at Sam’s Club that improved system efficiency by 40%. Passionate about creating impactful solutions and driving innovation
 
 ## Technical Skills
 - Languages	: Java 8/7/6, C, C++, SQL, PL/SQL
@@ -26,35 +27,23 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 
 
 ## Professional Experience
-### Full Stack Developer  
-*Dell*, Round rock, Texas (Mar 2024–Present)
 
-- Built scalable web applications using Java (Spring Boot) and React, increasing application performance by 30%.
-- Designed and implemented RESTful APIs with Spring Boot, reducing data retrieval times by 25%.
-- Utilized AWS services such as EC2, S3, Lambda, and RDS, enhancing system scalability by 40%.
-- Automated CI/CD pipelines with Jenkins and Docker, improving deployment speed by 35%.
-- Mentored junior developers, boosting team productivity by 20%.
+### Full Stack Developer 
+CLIENT: SAMS CLUB (DEC 2023 – PRESENT) LOCATION: BENTONVILLE, ARKANSAS ROLE: JAVA FULL STACK DEVELOPER
 
-### Full Stack Developer  
-*Hyundai*,Fountain Valley, California (Jan 2022 – Feb 2023)
+At Sam’s Club, I worked on developing a Membership Management Portal as a Full Stack Developer. Using React.js and Redux, I designed responsive, user-friendly interfaces for member sign-ups, renewals, and dashboards. At the same time, the backend was built with Spring Boot and Node.js, ensuring secure APIs and efficient data processing. I managed databases using PostgreSQL for structured data and MongoDB for activity logs. The application was hosted on AWS, leveraging EC2, S3, and RDS, with CI/CD pipelines automated using Jenkins and containerized deployments with Docker. Additionally, I integrated Splunk for monitoring and New Relic for performance optimization, resulting in a highly scalable solution that reduced processing times by 40% and improved user satisfaction.
 
-- Developed RESTful APIs using Java (Spring Boot) for high-performance web applications.
-- Migrated applications from Azure to AWS, improving cost efficiency and scalability.
-- Utilized Terraform and AWS CloudFormation for automated resource provisioning.
-- Optimized AWS IAM roles for secure access controls and compliance.
+### JAVA Full Stack Developer
+CLIENT: WALMART (OCT 2021 – NOV 2023) LOCATION: BENTONVILLE, ARKANSAS ROLE: JAVA FULL STACK DEVELOPER
 
+I developed and optimized a retail management platform at Walmart to enhance customer experience and streamline operations. Using React.js and Redux, I built intuitive, responsive user interfaces for order tracking and inventory management. I utilized Spring Boot and Node.js on the backend to design secure APIs and integrate them with databases like PostgreSQL and MongoDB. The application was hosted on AWS (EC2, S3, RDS), leveraging CI/CD pipelines with Jenkins and containerized using Docker. This solution improved system efficiency, reduced processing times, and enhanced scalability for Walmart’s large-scale operations.
 
+### JAVA Full Stack Developer
+CLIENT: BURLINGTON (FEB 2020 – SEPT 2021) LOCATION: BURLINGTON, NEW JERSEY ROLE: JAVA FULL STACK DEVELOPER
 
-### Full Stack Developer  
-*Molina Health care*, Irving, Texas (Feb 2020 – Dec 2021)
+At Burlington, I led the development of a centralized platform to streamline retail operations and enhance supply chain visibility. Using React.js and Redux, I crafted dynamic interfaces for real-time inventory updates and sales insights. I utilized Spring Boot and Node.js on the backend to build RESTful APIs and integrate them with PostgreSQL and MongoDB databases for seamless data flow. Deployed on AWS using Dockerized containers and automated CI/CD pipelines with Jenkins, the solution reduced manual overhead and enhanced system responsiveness, driving operational efficiency for Burlington’s retail ecosystem.
 
-- Developed backend services and RESTful APIs using Java (Spring Boot) for scalable applications.
-- Integrated Azure services (Blob Storage, Functions, App Services) to build cloud-based solutions.
-- Optimized big data processing tasks using Apache Spark on Azure Databricks, enhancing pipeline efficiency.
+### JAVA Developer  
+COMPANY: CIPLA Ltd (MAR 2019 – JAN 2020) LOCATION: MUMBAI ROLE: JAVA DEVELOPER
 
-### Full Stack Developer  
-*Razor Pay*, Bangalore, Karnataka (Mar 2019 – Jan 2020)
-
-- Developed microservices using Flask and FastAPI for real-time data processing.
-- Built serverless applications on AWS using Lambda, S3, and RDS.
-- Automated data pipelines with AWS Glue, improving ETL task efficiency.
+At Cipla Ltd, I worked on developing a specialized platform to manage pharmaceutical inventory and ensure compliance with healthcare regulations. Leveraging React.js and Redux, I designed user-friendly dashboards for real-time tracking of drug manufacturing and distribution processes. The backend, powered by Spring Boot and Node.js, facilitated secure and efficient API integrations with healthcare data repositories. Using MongoDB and PostgreSQL, the system ensured accurate storage and retrieval of regulatory and operational data. Deployed on AWS, with CI/CD pipelines for automated updates, the solution improved traceability, streamlined workflows, and supported Cipla’s commitment to delivering quality healthcare products.
