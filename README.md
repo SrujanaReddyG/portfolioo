@@ -2,7 +2,7 @@
 <img src="pp.jpeg" width=200 heigh=200>
 
 
-# SAI SRUJANA REDDY GUTHA
+## SAI SRUJANA REDDY GUTHA
 # Java Full Stack Developer
 
 *Contact Information*:
